@@ -1,0 +1,15 @@
+C:\Users\yongj\source\repos\Java\EffectiveJava\Item2_ClassBuilder\cs_version\bin\Debug\net6.0\cs_version.exe
+C:\Users\yongj\source\repos\Java\EffectiveJava\Item2_ClassBuilder\cs_version\bin\Debug\net6.0\cs_version.deps.json
+C:\Users\yongj\source\repos\Java\EffectiveJava\Item2_ClassBuilder\cs_version\bin\Debug\net6.0\cs_version.runtimeconfig.json
+C:\Users\yongj\source\repos\Java\EffectiveJava\Item2_ClassBuilder\cs_version\bin\Debug\net6.0\cs_version.dll
+C:\Users\yongj\source\repos\Java\EffectiveJava\Item2_ClassBuilder\cs_version\bin\Debug\net6.0\ref\cs_version.dll
+C:\Users\yongj\source\repos\Java\EffectiveJava\Item2_ClassBuilder\cs_version\bin\Debug\net6.0\cs_version.pdb
+C:\Users\yongj\source\repos\Java\EffectiveJava\Item2_ClassBuilder\cs_version\obj\Debug\net6.0\cs_version.csproj.AssemblyReference.cache
+C:\Users\yongj\source\repos\Java\EffectiveJava\Item2_ClassBuilder\cs_version\obj\Debug\net6.0\cs_version.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yongj\source\repos\Java\EffectiveJava\Item2_ClassBuilder\cs_version\obj\Debug\net6.0\cs_version.AssemblyInfoInputs.cache
+C:\Users\yongj\source\repos\Java\EffectiveJava\Item2_ClassBuilder\cs_version\obj\Debug\net6.0\cs_version.AssemblyInfo.cs
+C:\Users\yongj\source\repos\Java\EffectiveJava\Item2_ClassBuilder\cs_version\obj\Debug\net6.0\cs_version.csproj.CoreCompileInputs.cache
+C:\Users\yongj\source\repos\Java\EffectiveJava\Item2_ClassBuilder\cs_version\obj\Debug\net6.0\cs_version.dll
+C:\Users\yongj\source\repos\Java\EffectiveJava\Item2_ClassBuilder\cs_version\obj\Debug\net6.0\ref\cs_version.dll
+C:\Users\yongj\source\repos\Java\EffectiveJava\Item2_ClassBuilder\cs_version\obj\Debug\net6.0\cs_version.pdb
+C:\Users\yongj\source\repos\Java\EffectiveJava\Item2_ClassBuilder\cs_version\obj\Debug\net6.0\cs_version.genruntimeconfig.cache
